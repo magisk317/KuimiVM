@@ -29,4 +29,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: alpha317/xybot:latest,alpha317/xybot:${{ env.GIT_SHA }}
+        tags: alpha317/qsign:latest,alpha317/qsign:${{ env.GIT_SHA }}
